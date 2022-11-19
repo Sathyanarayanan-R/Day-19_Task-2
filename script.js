@@ -17,7 +17,7 @@ mainInnerDivEle.setAttribute('class', 'cl-main-innerdiv');
 
 const inpEle = document.createElement('input');
 inpEle.type = 'text';
-inpEle.placeholder = 'Type the word here';
+inpEle.placeholder = 'Type the word';
 inpEle.setAttribute('class', 'cl-input-ele');
 
 //Button Element
